@@ -1,0 +1,39 @@
+{
+  "name": "literallycanvas",
+  "version": "0.4.11",
+  "homepage": "http://literallycanvas.com",
+  "authors": [
+    "irskep",
+    "campaul"
+  ],
+  "description": "A canvas in your browser. Literally.",
+  "main": "js/literallycanvas.min.js",
+  "keywords": [
+    "canvas",
+    "edit",
+    "sketch",
+    "draw",
+    "literally"
+  ],
+  "license": "BSD",
+  "dependencies": {
+    "react": "0.13.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.4.11",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.4.11",
+    "commit": "36d7c0e2dc95948001d14637664c674546cf2080"
+  },
+  "_source": "git://github.com/literallycanvas/literallycanvas-bower.git",
+  "_target": "~0.4.11",
+  "_originalSource": "literallycanvas",
+  "_direct": true
+}

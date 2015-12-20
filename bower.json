@@ -1,0 +1,17 @@
+{
+  "name": "canvas",
+  "version": "0.0.0",
+  "authors": [
+    "murtyk <murtyk@yahoo.com>"
+  ],
+  "description": "Trying Literall Canvas",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
